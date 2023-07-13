@@ -42,6 +42,6 @@
 
 + gregorian_date: This date aligns with the Gregorian calendar
 + month_name: These are the designated months in the case study
-Month 1 and 2 are pre-campaign
-Month 3 is the campaign
-Month 4 and 5 are post-campaign
+  - Month 1 and 2 are pre-campaign
+  - Month 3 is the campaign
+  - Month 4 and 5 are post-campaign
