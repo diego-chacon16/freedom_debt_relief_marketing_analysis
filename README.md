@@ -1,5 +1,7 @@
 # Freedom Debt Relief - Marketing Campaign Analysis
 
+<img src="[https://media.giphy.com/media/ohdY5OaQmUmVW/giphy.gif](https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif)" width="500" height="300"/>
+
 ### Who is Freedom?
 
 + Freedom Debt Relief is a company that specializes in debt settlement services.
