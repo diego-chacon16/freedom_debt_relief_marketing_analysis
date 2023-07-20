@@ -1,6 +1,6 @@
 # Freedom Debt Relief - Marketing Campaign Analysis
 
-<img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif"  width="400" height="350"/>
+<img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif"  width="400" height="400"/>
 
 ### Who is Freedom?
 
