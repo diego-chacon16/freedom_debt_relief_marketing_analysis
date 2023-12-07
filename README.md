@@ -27,7 +27,7 @@
  
 ## Data Description
 
-### client_data.csv
+### Table 1: client_data.csv
 
 __Data specific to fictional clients__
 
@@ -36,7 +36,7 @@ __Data specific to fictional clients__
 + client_residence_status: Client residence status in relation to whether they rent or own
 + client_age: Client age in relation to date of birth
 
-### deposit_data.csv 
+### Table 2: deposit_data.csv 
 
 __You will find data specific to the client deposit behavior__
 
@@ -46,7 +46,7 @@ __You will find data specific to the client deposit behavior__
 + deposit_cadence: Timing and pattern of client deposit activity
 + deposit_date: Deposit date for deposit type
 
-### calendar_data.csv 
+### Table 3: calendar_data.csv 
 
 __This is a calendar reference table__
 
