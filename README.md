@@ -2,37 +2,43 @@
 
 <img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif"  width="400" height="400"/>
 
-### Who is Freedom?
+### About Freedom Debt Relief
 
 + Freedom Debt Relief is a company that specializes in debt settlement services.
-+ They aim to help individuals and families struggling with unmanageable debt by negotiating with creditors on their behalf to reduce the total amount owed.
-
-### What is their purpose?
-
-+ By working with Freedom Debt Relief, individuals may be able to alleviate their financial burden and work towards becoming debt-free.
++ With a mission to assist individuals and families struggling with unmanageable debt, Freedom negotiates with creditors to reduce the total amount owed, providing a pathway towards financial freedom.
 
 ### Purpose of this Project
 
-+ Freedom has run a recent Marketing campaign promoting their value propositon
-+ The total cost of this campagin was $5 million
-+ There are five months of data provided, with the campaign occurring on the third month
-+ It is now our turn to present to Marketing, Sales & Operations whether this campaign was successful or not
+#### Overview
 
-### This notebook will contain..
++ This project evaluates the effectiveness of a recent $5 million Marketing campaign conducted by Freedom Debt Relief. The analysis spans five months, with the campaign occurring in the third month.
++ The objective is to present insights to Marketing, Sales, and Operations regarding the success of the campaign.
 
-+ Data exploration and a quantitative assessment of the campaign's performance
-  - Outlining which metrics were chosen and why
-  - Recommendations for company strategy to improve future campaign performance
+### Notebook Content
+
+1. __Data exploration and Quantitative Assessment__:
+  - Thorough exploration of client and deposit data to quantitatively assess campaign performance
+
+2. __Metrics Selections__:
+   - Explanation of chosen metrics and their relevance in evaluating campaign's impact
+
+3. __Recommendations for Future Strategy__:
+   - Strategic insights and recommendations to enhance future campaign performance
  
 ### Data Description
-#### client_data.csv: You will find data specific to fictional clients
+
+#### client_data.csv
+
+__Data specific to fictional clients__
 
 + client_id: Randomly generated unique surrogate identifier for a client
 + client_geographical_region: Client geographical location in relation to U.S. Census definitions
 + client_residence_status: Client residence status in relation to whether they rent or own
 + client_age: Client age in relation to date of birth
 
-#### deposit_data.csv: You will find data specific to the client deposit behavior
+#### __deposit_data.csv 
+
+__You will find data specific to the client deposit behavior__
 
 + client_id: Randomly generated unique surrogate identifier for a client
 + deposit_type: Delineates whether a client deposit is the scheduled record or actual record
@@ -40,10 +46,14 @@
 + deposit_cadence: Timing and pattern of client deposit activity
 + deposit_date: Deposit date for deposit type
 
-#### calendar_data.csv: This is a calendar reference table
+#### calendar_data.csv 
+
+__This is a calendar reference table__
 
 + gregorian_date: This date aligns with the Gregorian calendar
 + month_name: These are the designated months in the case study
   - Month 1 and 2 are pre-campaign
   - Month 3 is the campaign
   - Month 4 and 5 are post-campaign
+
+## Happy Analyzing! 📊
