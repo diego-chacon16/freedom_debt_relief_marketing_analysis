@@ -15,9 +15,9 @@
 + The objective is to present insights to Marketing, Sales, and Operations regarding the success of the campaign.
 + Using the datasets given:
 
-1. Provide a quantitative assessment of whether the marketing campaign was successful. How and why did you choose your specific success metric(s)?
-2. Based on the provided data, how would you recommend campaign strategy be adjusted in the future to improve performance?
-3. How do you think campaign performance would have changed if we did not run the campaign in Month 3, but instead postponed it until month 6? Provide an incremental number versus your result in Question #1.
+1. Provide a quantitative assessment of whether the marketing campaign was successful. What metrics were chosen and why?
+2. Based on the provided data, what recommendation can be provided for the campaign strategy to be adjusted in the future to improve performance?
+3. How would campaign performancehave changed if it was rolled out in Month 6 instead of Month 3? Provide an incremental number versus your result in Question #1.
 
 
 ### Notebook Content
