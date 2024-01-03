@@ -17,7 +17,7 @@
 
 1. Provide a quantitative assessment of whether the marketing campaign was successful. What metrics were chosen and why?
 2. Based on the provided data, what recommendation can be provided for the campaign strategy to be adjusted in the future to improve performance?
-3. How would campaign performancehave changed if it was rolled out in Month 6 instead of Month 3? Provide an incremental number versus your result in Question #1.
+3. How would campaign performance have changed if it was rolled out in Month 6 instead of Month 3? Provide an incremental number versus your result in Question #1.
 
 
 ### Notebook Content
